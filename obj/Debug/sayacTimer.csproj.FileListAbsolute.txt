@@ -1,0 +1,16 @@
+C:\Users\yns3g\source\repos\sayacTimer\bin\Debug\sayacTimer.exe.config
+C:\Users\yns3g\source\repos\sayacTimer\bin\Debug\sayacTimer.exe
+C:\Users\yns3g\source\repos\sayacTimer\bin\Debug\sayacTimer.pdb
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.Properties.Resources.resources
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.exe
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.pdb
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.kronometre.resources
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.alarm.resources
+C:\Users\yns3g\source\repos\sayacTimer\bin\Debug\Interop.WMPLib.dll
+C:\Users\yns3g\source\repos\sayacTimer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\Interop.WMPLib.dll
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yns3g\source\repos\sayacTimer\obj\Debug\sayacTimer.csproj.ResolveComReference.cache
